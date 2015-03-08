@@ -1,0 +1,9 @@
+This is some code to take decimal degrees from two columns in a cvs and output those columns in decimal degrees.
+
+To Do:
+
+- add raw input for:
+    - input csv
+    - output csv
+    - number of decimal points in minutes
+    - column numbers which contain the x and y
